@@ -21,21 +21,20 @@ Click Download
 
 1. downlaod the files
 2. put the files in the same folder
-3. extract vnev.zip
-4. install python3
+3. install python3
+4. install other libraries
 5. Run the following commnads
  Windows:
  
- open cmd.exe
- type "cd 'path'"
- then type "python3 main.py"
+double-click on discord-tools.exe
  
  
  Linux:
  
  go to the folder
  right click and open terminal
- then type "python3 main.py"
+ install wine and wine-tricks
+ then type "wine discord-tools.exe"
 
 
 # ERRORS:
