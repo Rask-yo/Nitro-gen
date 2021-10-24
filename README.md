@@ -1,5 +1,5 @@
 # Nitro-gen
-A Nitro generator made in python and opensurce, Have Fun! :)
+A Nitro generator made in python Have Fun! :)
 
 
 # TUTORIAL:
